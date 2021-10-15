@@ -1,1 +1,12 @@
 Course datasci = new Course("BB1DSC1", "BSc (Hons) Data Science");
+Student jyoti = new Student("Jyoti", 22045432);
+jyoti.enrol(datasci);
+jyoti.print();
+ Student ID: 22045432 Name: Jyoti
+jyoti.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1DSC1: BSc (Hons) Data Science
+
