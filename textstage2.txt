@@ -1,0 +1,68 @@
+StockList jyotistocklist = new StockList();
+StockDemo jyotistockdemo = new StockDemo();
+
+ Jyoti's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 0
+ ID 102: Samsung Galaxy A12 stock level: 0
+ ID 103: Samsung Galaxy A03s stock level: 0
+ ID 104: Samsung Galaxy A52s stock level: 0
+ ID 105: Samsung Galaxy M32 stock level: 0
+ ID 106: Samsung Galaxy A22 stock level: 0
+ ID 107: Samsung Galaxy A72 stock level: 0
+ ID 108: Samsung Galaxy M12 stock level: 0
+ ID 109: Samsung Galaxy S21 Ultra stock level: 0
+ ID 110: Samsung Galaxy F41 stock level: 0
+
+bought 10 of Samsung Galaxy S20
+bought 15 of Samsung Galaxy A12
+bought 25 of Samsung Galaxy A03s
+bought 50 of Samsung Galaxy A52s
+bought 12 of Samsung Galaxy M32
+bought 38 of Samsung Galaxy A22
+bought 55 of Samsung Galaxy A72
+bought 86 of Samsung Galaxy M12
+bought 97 of Samsung Galaxy S21 Ultra
+bought 9 of Samsung Galaxy F41
+
+ Jyoti's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 10
+ ID 102: Samsung Galaxy A12 stock level: 15
+ ID 103: Samsung Galaxy A03s stock level: 25
+ ID 104: Samsung Galaxy A52s stock level: 50
+ ID 105: Samsung Galaxy M32 stock level: 12
+ ID 106: Samsung Galaxy A22 stock level: 38
+ ID 107: Samsung Galaxy A72 stock level: 55
+ ID 108: Samsung Galaxy M12 stock level: 86
+ ID 109: Samsung Galaxy S21 Ultra stock level: 97
+ ID 110: Samsung Galaxy F41 stock level: 9
+
+sold 8 of Samsung Galaxy S20
+sold 10 of Samsung Galaxy A12
+sold 22 of Samsung Galaxy A03s
+sold 30 of Samsung Galaxy A52s
+sold 12 of Samsung Galaxy M32
+sold 35 of Samsung Galaxy A22
+sold 40 of Samsung Galaxy A72
+sold 80 of Samsung Galaxy M12
+sold 90 of Samsung Galaxy S21 Ultra
+can't sell16ofSamsung Galaxy F41because only have 9
+product doesn't exist
+
+ Jyoti's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 2
+ ID 102: Samsung Galaxy A12 stock level: 5
+ ID 103: Samsung Galaxy A03s stock level: 3
+ ID 104: Samsung Galaxy A52s stock level: 20
+ ID 105: Samsung Galaxy M32 stock level: 0
+ ID 106: Samsung Galaxy A22 stock level: 3
+ ID 107: Samsung Galaxy A72 stock level: 15
+ ID 108: Samsung Galaxy M12 stock level: 6
+ ID 109: Samsung Galaxy S21 Ultra stock level: 7
+ ID 110: Samsung Galaxy F41 stock level: 9
+

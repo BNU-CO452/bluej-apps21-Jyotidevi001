@@ -1,0 +1,43 @@
+Product SamsungGalaxyS20 = new Product(101, "Samsung Galaxy S20");
+SamsungGalaxyS20.print();
+ ID 101: Samsung Galaxy S20 stock level: 0
+SamsungGalaxyS20.decreaseQuantity(4);
+SamsungGalaxyS20.print();
+ ID 101: Samsung Galaxy S20 stock level: 0
+SamsungGalaxyS20.increaseQuantity(3);
+SamsungGalaxyS20.print();
+ ID 101: Samsung Galaxy S20 stock level: 3
+SamsungGalaxyS20.decreaseQuantity(4);
+SamsungGalaxyS20.print();
+ ID 101: Samsung Galaxy S20 stock level: 3
+Product samsungGalaxya12 = new Product(102, "Samsung Galaxy A12");
+StockList stockLis1 = new StockList();
+StockList jyotistocklist = new StockList();
+jyotistocklist.add(SamsungGalaxyS20);
+jyotistocklist.add(samsungGalaxya12);
+jyotistocklist.print();
+
+ Jyoti's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 3
+ ID 102: Samsung Galaxy A12 stock level: 0
+
+samsungGalaxya12.decreaseQuantity(5);
+samsungGalaxya12.print();
+ ID 102: Samsung Galaxy A12 stock level: 0
+samsungGalaxya12.increaseQuantity(7);
+samsungGalaxya12.print();
+ ID 102: Samsung Galaxy A12 stock level: 7
+jyotistocklist.add(samsungGalaxya12);
+jyotistocklist.add(SamsungGalaxyS20);
+jyotistocklist.print();
+
+ Jyoti's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 3
+ ID 102: Samsung Galaxy A12 stock level: 7
+ ID 102: Samsung Galaxy A12 stock level: 7
+ ID 101: Samsung Galaxy S20 stock level: 3
+
