@@ -1,0 +1,199 @@
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > add
+Adding a new Product
+
+Please enter a product id >
+103
+Please enter the product name >Google Pixel 4A
+A product with this ID already exists, Plz try with another ID
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > REMOVE
+please enter the ID of the product to be removed
+105
+Apple iPhone 13 Pro has been removed from the stock
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > buy
+Please enter the ID of the product you want to buy
+108
+Please enter the quantity
+4
+Bought 4 of Apple iPhone mini
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > sell
+Please enter the ID of the product to sell
+106
+Please enter the quantity
+3
+The productGoogle Pixel 6Ais out of stock
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > search
+Enter a Product ID 
+104
+Product found: 104: Samsung Galaxy S20 Ultra
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > check
+Products with low stock - Lower than 25 items:
+ ID 101: Samsung Galaxy S20 stock level: 0
+ ID 102: Apple iPhone 12 stock level: 0
+ ID 103: Google Pixel 4A stock level: 0
+ ID 104: Samsung Galaxy S20 Ultra stock level: 0
+ ID 106: Google Pixel 6A stock level: 0
+ ID 107: Samsung Galaxy A20 stock level: 0
+ ID 108: Apple iPhone mini stock level: 4
+ ID 109: Google Pixel 5A stock level: 0
+ ID 110: Samsung Galaxy Tab stock level: 0
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > restock
+
+ Mohsin's Stock List
+ ====================
+
+If below 5 Increase stock level by 200
+ ID 101: Samsung Galaxy S20 stock level: 200
+ ID 102: Apple iPhone 12 stock level: 200
+ ID 103: Google Pixel 4A stock level: 200
+ ID 104: Samsung Galaxy S20 Ultra stock level: 200
+ ID 106: Google Pixel 6A stock level: 200
+ ID 107: Samsung Galaxy A20 stock level: 200
+ ID 108: Apple iPhone mini stock level: 204
+ ID 109: Google Pixel 5A stock level: 200
+ ID 110: Samsung Galaxy Tab stock level: 200
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > print
+
+ Mohsin's Stock List
+ ====================
+
+ ID 101: Samsung Galaxy S20 stock level: 200
+ ID 102: Apple iPhone 12 stock level: 200
+ ID 103: Google Pixel 4A stock level: 200
+ ID 104: Samsung Galaxy S20 Ultra stock level: 200
+ ID 106: Google Pixel 6A stock level: 200
+ ID 107: Samsung Galaxy A20 stock level: 200
+ ID 108: Apple iPhone mini stock level: 204
+ ID 109: Google Pixel 5A stock level: 200
+ ID 110: Samsung Galaxy Tab stock level: 200
+
+********************************
+  App21-04: Stock Application 
+      by Jyoti
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buy more products
+    Sell:       Sell a product
+    Search:     Search for a product
+    Check:      Check stock level
+    Restock:    Restock if quantity low
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > quit
